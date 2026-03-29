@@ -1,57 +1,26 @@
-# Evandro Carvalho
+# Hi there! 👋 I'm [Evandro Vitorino de Brito Carvalho]
 
-## 🔐 Cibersegurança + Inteligência Artificial
+### Cybersecurity & AI Enthusiast | Web Developer | Future IT Leader
 
-Estudante focado em integrar Inteligência Artificial com Cibersegurança, com ênfase em automação, detecção de ameaças e análise de logs.
+I am a tech professional transitioning from a high-pressure healthcare background into Cybersecurity and Artificial Intelligence. Currently pursuing an Associate Degree in Systems Analysis and Development (ADS), I combine technical academic learning with real-world business experience running a web development agency. 
 
----
+My goal is to bridge the gap between secure architectures and AI-driven defense, aiming for IT leadership roles in the future.
 
-## 🚀 Foco Atual
-- Python para Segurança
-- Machine Learning
-- Automação de Segurança
-- Análise de Redes
-- Detecção de Intrusão
+**🎯 What I'm currently focusing on:**
+* Building a solid foundation in **Python**, **Linux**, and **Network Security**.
+* Training hands-on through **TryHackMe** and studying the OWASP Top 10.
+* Architecting secure web applications and exploring MicroSaaS development for local businesses.
+* Enhancing my technical English to connect with the global tech community.
 
----
+**💡 My background & mindset:**
+* Accustomed to high-stakes decision-making, critical thinking, and working under pressure.
+* Experienced in managing client expectations and delivering digital products (landing pages and institutional websites).
+* Passionate about Application Security (AppSec) and how Machine Learning can automate threat detection.
 
-## 📂 Projetos em Desenvolvimento
-- cyber-ai-01-log-analyzer
-- cyber-ai-02-bruteforce-detector
-- cyber-ai-03-network-anomaly-ml
-- cyber-ai-04-simple-ids
-- cyber-ai-05-ai-log-explainer
-- cyber-ai-06-mini-siem
+**🛠️ Tech Stack & Tools (In Progress):**
+* **Languages & OS:** Python, Linux, Bash, HTML/CSS
+* **Security & Practices:** TryHackMe, Defensive Security, OWASP Principles
+* **Business:** Product Management, SaaS Architecture
 
----
-
-## 🧠 Roadmap de Aprendizado
-- Fundamentos de Cibersegurança
-- Python para análise de logs
-- Machine Learning aplicado à segurança
-- Detecção de anomalias em rede
-- SIEM com Inteligência Artificial
-- Automação de resposta a incidentes
-
----
-
-## 🛠️ Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-
----
-
-## 🎯 Objetivo
-Atuar profissionalmente com Cibersegurança utilizando Inteligência Artificial para detecção e prevenção de ameaças.
-
----
-
-## 📈 Em evolução constante
-Construindo projetos práticos em:
-- Detecção de ataques
-- Análise de tráfego
-- Automação defensiva
-- IA aplicada à segurança
+**📫 Let's connect:**
+* **Email:** [evandrovitorinocarvalho@gmail.com]
