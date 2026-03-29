@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Evandro Vitorino de Brito Carvalho]
+# Hi there! 👋 I'm Evandro Vitorino de Brito Carvalho
 
 ### Cybersecurity & AI Enthusiast | Web Developer | Future IT Leader
 
@@ -23,4 +23,4 @@ My goal is to bridge the gap between secure architectures and AI-driven defense,
 * **Business:** Product Management, SaaS Architecture
 
 **📫 Let's connect:**
-* **Email:** [evandrovitorinocarvalho@gmail.com]
+* **Email:** evandrovitorinocarvalho@gmail.com
